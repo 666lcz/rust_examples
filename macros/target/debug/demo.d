@@ -1,0 +1,1 @@
+/Users/chris/projects/rust_examples/macros/target/debug/demo: /Users/chris/projects/rust_examples/macros/demo/src/main.rs /Users/chris/projects/rust_examples/macros/hello_macro/hello_macro_derive/src/lib.rs /Users/chris/projects/rust_examples/macros/hello_macro/src/lib.rs
